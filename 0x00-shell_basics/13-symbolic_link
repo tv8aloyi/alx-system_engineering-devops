@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s "$target" "$link_name"
+target="/bin/ls" \ link_name="__ls__"\ ln -s "$target" "$link_name"
