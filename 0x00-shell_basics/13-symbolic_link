@@ -1,0 +1,2 @@
+#!/bin/bash
+ln -s "$target" "$link_name"
