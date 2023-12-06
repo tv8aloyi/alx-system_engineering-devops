@@ -1,2 +1,1 @@
-This is a readme file
-tHIS IS ANOTHER LINE
+0. Prints working directory
