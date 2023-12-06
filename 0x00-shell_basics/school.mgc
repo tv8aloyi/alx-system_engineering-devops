@@ -1,1 +1,1 @@
-printf "%s\n%s\n" '0 string SCHOOL School' '!:mime  School' > school.mgc
+file -m school.mgc your_school_data_file
