@@ -1,2 +1,2 @@
 #!/bin/bash
-file="_hello" owner="vincent" group="staff"
+chown -h vincent:staff _hello
