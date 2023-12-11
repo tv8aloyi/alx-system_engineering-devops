@@ -1,2 +1,2 @@
 #!/bin/bash
-filename="ls_cwd_content" ls -la > "$filename"
+ls -la > ls_cwd_content
